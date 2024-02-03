@@ -1,0 +1,3 @@
+-Surround titles with aterisks
+-make a border around the message
+-replace faulty bullet points with something that will work
